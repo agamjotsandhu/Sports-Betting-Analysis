@@ -1,4 +1,5 @@
 fastapi 
 uvicorn 
 xgboost 
-scikit-learn numpy;
+scikit-learn
+numpy
